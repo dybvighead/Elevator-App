@@ -1,0 +1,1174 @@
+11:05:32.112 [main] INFO  userLogger - Welcome to our Elevator App!
+
+11:05:32.114 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+11:05:32.114 [main] INFO  userLogger - (Input q to quit)
+> 
+11:05:36.515 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+11:05:37.519 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+11:05:38.534 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 5
+
+11:05:39.528 [Thread-3] INFO  userLogger - Elevator 3 : On the way from level 1
+
+11:05:39.528 [Thread-3] INFO  userLogger - Elevator 3 : Picking user at level 1
+
+11:05:39.543 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 3
+
+11:05:40.037 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 6
+
+11:05:40.532 [Thread-4] INFO  userLogger - Elevator 4 : On the way from level 1
+
+11:05:41.041 [Thread-3] INFO  userLogger - Elevator 3 : Dropping off user at level 4
+
+11:05:42.560 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 1
+
+11:05:43.054 [Thread-4] INFO  userLogger - Elevator 4 : Picking user at level 6
+
+11:05:44.061 [Thread-4] INFO  userLogger - Elevator 4 : Dropping off user at level 8
+
+11:06:03.151 [Thread-3] INFO  userLogger - Elevator 3 : On the way from level 4
+
+11:06:03.655 [Thread-3] INFO  userLogger - Elevator 3 : Picking user at level 5
+
+11:06:04.155 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 3
+
+11:06:04.659 [Thread-3] INFO  userLogger - Elevator 3 : Dropping off user at level 3
+
+11:06:04.659 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 2
+
+11:06:05.160 [Thread-4] INFO  userLogger - Elevator 4 : On the way from level 8
+
+11:06:06.164 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+11:06:06.165 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 1
+
+11:06:06.166 [Thread-4] INFO  userLogger - Elevator 4 : Picking user at level 6
+
+11:06:07.166 [Thread-3] INFO  userLogger - Elevator 3 : On the way from level 3
+
+11:06:07.676 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 4
+
+11:06:08.185 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 9
+
+11:06:08.675 [Thread-3] INFO  userLogger - Elevator 3 : Picking user at level 6
+
+11:06:08.682 [Thread-4] INFO  userLogger - Elevator 4 : Dropping off user at level 1
+
+11:06:09.683 [Thread-3] INFO  userLogger - Elevator 3 : Dropping off user at level 8
+
+11:06:11.733 [main] INFO  userLogger - Thank you for using the elevator app. See you again!
+
+11:29:11.521 [main] INFO  userLogger - Welcome to our Elevator App!
+
+11:29:11.523 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+11:29:11.524 [main] INFO  userLogger - (Input q to quit)
+> 
+11:29:14.381 [main] INFO  userLogger - Thank you for using the elevator app. See you again!
+
+11:22:46.495 [main] INFO  userLogger - Welcome to our Elevator App!
+
+11:22:46.535 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+11:22:46.535 [main] INFO  userLogger - (Input q to quit)
+> 
+11:22:53.681 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+11:22:53.683 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+11:23:20.722 [main] INFO  userLogger - Welcome to our Elevator App!
+
+11:23:20.728 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+11:23:20.729 [main] INFO  userLogger - (Input q to quit)
+> 
+11:23:27.272 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+11:23:27.273 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+11:26:48.267 [main] INFO  userLogger - Welcome to our Elevator App!
+
+11:26:48.275 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+11:26:48.276 [main] INFO  userLogger - (Input q to quit)
+> 
+11:26:53.936 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+11:26:53.938 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+11:26:58.474 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 10
+
+11:27:10.870 [main] INFO  userLogger - Thank you for using the elevator app. See you again!
+
+11:32:32.386 [main] INFO  userLogger - Welcome to our Elevator App!
+
+11:32:32.389 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+11:32:32.389 [main] INFO  userLogger - (Input q to quit)
+> 
+11:32:38.632 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+11:32:39.137 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+11:32:41.150 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 10
+
+11:32:48.123 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 10
+
+11:32:49.133 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 6
+
+11:32:50.139 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 2
+
+11:33:31.865 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+11:33:31.866 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+11:33:32.873 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 5
+
+12:02:37.742 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:02:37.745 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:02:37.745 [main] INFO  userLogger - (Input q to quit)
+> 
+12:03:27.169 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:03:27.172 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:03:27.172 [main] INFO  userLogger - (Input q to quit)
+> 
+12:04:02.918 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:04:02.921 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:04:02.921 [main] INFO  userLogger - (Input q to quit)
+> 
+12:10:52.380 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:10:52.384 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:10:52.384 [main] INFO  userLogger - (Input q to quit)
+> 
+12:11:09.057 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:11:09.061 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:11:09.061 [main] INFO  userLogger - (Input q to quit)
+> 
+12:13:56.064 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:13:56.067 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:13:56.067 [main] INFO  userLogger - (Input q to quit)
+> 
+12:13:59.626 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+12:14:40.793 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:14:40.798 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:14:40.799 [main] INFO  userLogger - (Input q to quit)
+> 
+12:15:48.087 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:15:48.090 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:15:48.090 [main] INFO  userLogger - (Input q to quit)
+> 
+12:15:51.565 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+12:15:51.566 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+12:15:56.105 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 10
+
+12:17:24.258 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:17:24.261 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:17:24.261 [main] INFO  userLogger - (Input q to quit)
+> 
+12:17:27.845 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+12:17:28.350 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+12:17:29.354 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 6
+
+12:19:07.920 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:19:07.924 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:19:07.924 [main] INFO  userLogger - (Input q to quit)
+> 
+12:19:12.584 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+12:19:13.089 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+12:19:14.602 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 8
+
+12:24:34.819 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:24:34.822 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:24:34.822 [main] INFO  userLogger - (Input q to quit)
+> 
+12:24:39.061 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+12:24:39.062 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+12:24:40.069 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 5
+
+12:24:52.914 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:24:52.917 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:24:52.917 [main] INFO  userLogger - (Input q to quit)
+> 
+12:24:56.501 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+12:24:56.501 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+12:24:58.518 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 9
+
+12:25:52.803 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:25:52.806 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:25:52.806 [main] INFO  userLogger - (Input q to quit)
+> 
+12:25:56.804 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+12:25:56.805 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 1
+
+12:25:58.317 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 6
+
+12:26:12.595 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+12:26:12.595 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+12:26:13.605 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 5
+
+12:26:19.817 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 6
+
+12:26:20.819 [Thread-4] INFO  userLogger - Elevator 4 : On the way from level 1
+
+12:26:21.331 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 1
+
+12:26:21.829 [Thread-4] INFO  userLogger - Elevator 4 : Picking user at level 4
+
+12:26:22.838 [Thread-4] INFO  userLogger - Elevator 4 : Dropping off user at level 8
+
+12:26:22.842 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 6
+
+12:27:18.697 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:27:18.700 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:27:18.700 [main] INFO  userLogger - (Input q to quit)
+> 
+12:28:16.211 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:28:16.214 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:28:16.214 [main] INFO  userLogger - (Input q to quit)
+> 
+12:28:19.591 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+12:28:20.097 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+12:28:20.601 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 4
+
+12:28:32.305 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:28:32.309 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:28:32.309 [main] INFO  userLogger - (Input q to quit)
+> 
+12:28:36.711 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+12:28:37.217 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+12:28:51.236 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:28:51.239 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:28:51.239 [main] INFO  userLogger - (Input q to quit)
+> 
+12:28:54.623 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+12:28:55.127 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+12:28:56.133 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 6
+
+12:30:22.878 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:30:22.881 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:30:22.881 [main] INFO  userLogger - (Input q to quit)
+> 
+12:30:26.627 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+12:30:27.132 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+12:30:28.135 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 6
+
+12:33:07.390 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:33:07.393 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:33:07.393 [main] INFO  userLogger - (Input q to quit)
+> 
+12:33:12.949 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+12:33:13.954 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+12:33:13.960 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 5
+
+12:33:13.960 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 5
+
+12:33:14.961 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 4
+
+12:33:15.970 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 1
+
+12:33:40.781 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+12:33:41.785 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 4
+
+12:33:42.289 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 6
+
+12:36:31.083 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:36:31.086 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:36:31.087 [main] INFO  userLogger - (Input q to quit)
+> 
+12:36:35.521 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+12:36:36.024 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 3
+
+12:36:36.529 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 5
+
+12:36:50.301 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+12:36:50.301 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 1
+
+12:36:52.313 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 8
+
+12:37:06.367 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 8
+
+12:37:06.367 [main] ERROR userLogger - Input should be in format src:dest
+
+12:37:07.372 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 4
+
+12:37:08.381 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 8
+
+12:37:16.579 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 8
+
+12:37:17.584 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 5
+
+12:37:17.585 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 5
+
+12:37:17.588 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 4
+
+12:37:18.087 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 3
+
+12:37:18.596 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 8
+
+12:42:35.414 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:42:35.417 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:42:35.417 [main] INFO  userLogger - (Input q to quit)
+> 
+12:42:38.881 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+12:42:40.896 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 8
+
+12:42:42.409 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 2
+
+12:47:21.547 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:47:21.550 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:47:21.550 [main] INFO  userLogger - (Input q to quit)
+> 
+12:47:25.010 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+12:47:25.515 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+12:47:26.519 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 6
+
+12:47:43.729 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+12:47:44.737 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 5
+
+12:47:45.742 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 1
+
+12:50:57.286 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:50:57.289 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:50:57.289 [main] INFO  userLogger - (Input q to quit)
+> 
+12:51:00.722 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+12:51:01.227 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+12:51:01.731 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 4
+
+12:52:44.865 [main] INFO  userLogger - Welcome to our Elevator App!
+
+12:52:44.868 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+12:52:44.868 [main] INFO  userLogger - (Input q to quit)
+> 
+12:52:52.298 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+12:52:52.299 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+12:52:53.303 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+12:52:53.305 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 5
+
+12:52:54.307 [Thread-3] INFO  userLogger - Elevator 3 : On the way from level 1
+
+12:52:54.817 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 6
+
+12:52:55.320 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 4
+
+12:52:56.322 [Thread-3] INFO  userLogger - Elevator 3 : Picking user at level 9
+
+12:52:56.322 [Thread-3] INFO  userLogger - Elevator 3 : Dropping off user at level 9
+
+13:02:49.687 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:02:49.690 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:02:49.690 [main] INFO  userLogger - (Input q to quit)
+> 
+13:02:58.192 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+13:02:58.693 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 3
+
+13:02:59.192 [Thread-3] INFO  userLogger - Elevator 3 : On the way from level 1
+
+13:02:59.194 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 5
+
+13:03:00.197 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+13:03:00.701 [Thread-3] INFO  userLogger - Elevator 3 : Picking user at level 7
+
+13:03:00.701 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+13:03:00.702 [Thread-3] INFO  userLogger - Elevator 3 : Dropping off user at level 7
+
+13:03:02.718 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 10
+
+13:07:32.444 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:07:32.447 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:07:32.447 [main] INFO  userLogger - (Input q to quit)
+> 
+13:07:36.792 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+13:07:38.804 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 8
+
+13:07:40.819 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 1
+
+13:07:54.723 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+13:07:56.739 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 8
+
+13:07:58.757 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 1
+
+13:09:54.659 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:09:54.663 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:09:54.663 [main] INFO  userLogger - (Input q to quit)
+> 
+13:09:59.244 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+13:09:59.748 [Thread-2] INFO  userLogger - Elevator 2 : Please take the stairs to level 3
+
+13:09:59.748 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+13:10:00.753 [Thread-2] INFO  userLogger - Elevator 2 : Please take the stairs to level 7
+
+13:10:00.753 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 6
+
+13:10:30.402 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+13:10:30.402 [Thread-1] INFO  userLogger - Elevator 1 : Please take the stairs to level 2
+
+13:10:30.402 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+13:10:30.402 [Thread-1] INFO  userLogger - Elevator 1 : Please take the stairs to level 2
+
+13:10:30.402 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 1
+
+13:11:23.588 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:11:23.591 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:11:23.591 [main] INFO  userLogger - (Input q to quit)
+> 
+13:11:28.118 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+13:11:28.119 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+13:11:28.119 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 1
+
+13:11:41.323 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+13:11:41.323 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 1
+
+13:11:42.333 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 4
+
+13:13:51.552 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:13:51.555 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:13:51.555 [main] INFO  userLogger - (Input q to quit)
+> 
+13:13:55.250 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+13:13:55.751 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+13:13:56.757 [Thread-2] INFO  userLogger - Elevator 2 : Please take the stairs to level 7
+
+13:13:56.757 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 6
+
+13:14:16.461 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:14:16.463 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:14:16.464 [main] INFO  userLogger - (Input q to quit)
+> 
+13:14:20.786 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+13:14:20.787 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 1
+
+13:14:22.294 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 6
+
+13:14:22.295 [Thread-2] INFO  userLogger - Elevator 2 : Please take the stairs to level 7
+
+13:14:41.351 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 6
+
+13:14:41.853 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 8
+
+13:14:43.867 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 1
+
+13:14:43.868 [Thread-2] INFO  userLogger - Elevator 2 : Please take the stairs to level 2
+
+13:23:53.445 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:23:53.449 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:23:53.449 [main] INFO  userLogger - (Input q to quit)
+> 
+13:24:07.879 [main] INFO  userLogger - Elevator 1 : Please take the stairs to level 2
+
+13:24:07.880 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+13:24:09.896 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 9
+
+13:24:50.742 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:24:50.745 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:24:50.745 [main] INFO  userLogger - (Input q to quit)
+> 
+13:24:55.882 [main] INFO  userLogger - Elevator 1 : Please take the stairs to level 2
+
+13:24:55.883 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+13:24:57.900 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 9
+
+13:25:12.847 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:25:12.851 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:25:12.851 [main] INFO  userLogger - (Input q to quit)
+> 
+13:25:26.731 [main] INFO  userLogger - Elevator 1 : Please take the stairs to level 2
+
+13:25:26.731 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+13:25:28.746 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 9
+
+13:27:44.948 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:27:44.951 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:27:44.951 [main] INFO  userLogger - (Input q to quit)
+> 
+13:27:49.800 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+13:27:51.819 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 9
+
+13:27:53.832 [Thread-1] INFO  userLogger - Elevator 1 : Please take the stairs to level 2
+
+13:28:01.591 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+13:28:02.602 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 4
+
+13:28:03.611 [Thread-2] INFO  userLogger - Elevator 2 : Please take the stairs to level 9
+
+13:28:08.048 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+13:28:08.048 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+13:30:29.562 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:30:29.567 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:30:29.567 [main] INFO  userLogger - (Input q to quit)
+> 
+13:30:35.517 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+13:30:36.020 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+13:30:37.024 [Thread-2] INFO  userLogger - Elevator 2 : Please take the stairs to level 7
+
+13:30:47.891 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 6
+
+13:30:47.891 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 6
+
+13:31:21.614 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:31:21.618 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:31:21.618 [main] INFO  userLogger - (Input q to quit)
+> 
+13:31:25.155 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+13:31:26.664 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 6
+
+13:31:27.165 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 4
+
+13:31:34.489 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+13:31:34.993 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 3
+
+13:31:36.507 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 9
+
+13:31:41.195 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 9
+
+13:31:42.204 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 5
+
+13:31:43.210 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 9
+
+13:31:43.211 [Thread-1] INFO  userLogger - Elevator 1 : Please take the stairs to level 10
+
+13:31:53.588 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 4
+
+13:31:54.596 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 1
+
+13:31:56.613 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 8
+
+13:32:00.723 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 9
+
+13:32:02.738 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+13:32:04.246 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 7
+
+13:33:06.416 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:33:06.419 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:33:06.419 [main] INFO  userLogger - (Input q to quit)
+> 
+13:33:18.174 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+13:33:18.175 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+13:33:19.178 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+13:33:20.189 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 5
+
+13:33:21.694 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 6
+
+13:33:22.700 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 8
+
+13:33:43.708 [Thread-3] INFO  userLogger - Elevator 3 : On the way from level 1
+
+13:33:44.213 [Thread-3] INFO  userLogger - Elevator 3 : Picking user at level 2
+
+13:33:44.713 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 5
+
+13:33:45.214 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 6
+
+13:33:45.716 [Thread-4] INFO  userLogger - Elevator 4 : On the way from level 1
+
+13:33:46.219 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 4
+
+13:33:46.721 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 8
+
+13:33:46.724 [Thread-4] INFO  userLogger - Elevator 4 : Picking user at level 3
+
+13:33:46.735 [Thread-3] INFO  userLogger - Elevator 3 : Dropping off user at level 7
+
+13:33:47.722 [Thread-5] INFO  userLogger - Elevator 5 : On the way from level 1
+
+13:33:47.723 [Thread-5] INFO  userLogger - Elevator 5 : Picking user at level 1
+
+13:33:48.228 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 5
+
+13:33:49.738 [Thread-4] INFO  userLogger - Elevator 4 : Dropping off user at level 9
+
+13:33:50.743 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 10
+
+13:33:50.743 [Thread-5] INFO  userLogger - Elevator 5 : Dropping off user at level 7
+
+13:34:23.869 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:34:23.873 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:34:23.873 [main] INFO  userLogger - (Input q to quit)
+> 
+13:34:45.544 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+13:34:46.046 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 2
+
+13:34:46.547 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+13:34:47.552 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 3
+
+13:34:48.552 [Thread-3] INFO  userLogger - Elevator 3 : On the way from level 1
+
+13:34:48.562 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 7
+
+13:34:49.556 [Thread-4] INFO  userLogger - Elevator 4 : On the way from level 1
+
+13:34:49.557 [Thread-4] INFO  userLogger - Elevator 4 : Picking user at level 1
+
+13:34:50.560 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 7
+
+13:34:50.567 [Thread-3] INFO  userLogger - Elevator 3 : Picking user at level 5
+
+13:34:50.570 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 9
+
+13:34:52.070 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 4
+
+13:34:52.573 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 3
+
+13:34:53.090 [Thread-3] INFO  userLogger - Elevator 3 : Dropping off user at level 10
+
+13:34:53.090 [Thread-4] INFO  userLogger - Elevator 4 : Dropping off user at level 8
+
+13:35:59.952 [Thread-4] INFO  userLogger - Elevator 4 : On the way from level 8
+
+13:36:00.957 [Thread-4] INFO  userLogger - Elevator 4 : Picking user at level 6
+
+13:36:01.967 [Thread-4] INFO  userLogger - Elevator 4 : Dropping off user at level 4
+
+13:36:12.101 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 3
+
+13:36:12.606 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 2
+
+13:36:13.106 [Thread-4] INFO  userLogger - Elevator 4 : On the way from level 4
+
+13:36:13.608 [Thread-4] INFO  userLogger - Elevator 4 : Picking user at level 3
+
+13:36:15.114 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 9
+
+13:36:15.125 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 7
+
+13:36:16.122 [Thread-5] INFO  userLogger - Elevator 5 : On the way from level 1
+
+13:36:16.122 [Thread-5] INFO  userLogger - Elevator 5 : Picking user at level 1
+
+13:36:16.626 [Thread-4] INFO  userLogger - Elevator 4 : Dropping off user at level 9
+
+13:36:17.131 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 5
+
+13:36:19.146 [Thread-5] INFO  userLogger - Elevator 5 : Dropping off user at level 7
+
+13:36:19.647 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 10
+
+13:36:36.829 [Thread-6] INFO  userLogger - Elevator 6 : On the way from level 1
+
+13:36:36.829 [Thread-6] INFO  userLogger - Elevator 6 : Picking user at level 1
+
+13:36:37.333 [Thread-6] INFO  userLogger - Elevator 6 : Dropping off user at level 2
+
+13:36:37.829 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 7
+
+13:36:38.834 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 10
+
+13:36:38.834 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 10
+
+13:36:39.340 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 4
+
+13:36:39.845 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 3
+
+13:36:42.356 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 3
+
+13:43:10.146 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:43:10.150 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:43:10.150 [main] INFO  userLogger - (Input q to quit)
+> 
+13:43:13.130 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+13:43:13.635 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 2
+
+13:43:14.645 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 4
+
+13:43:15.137 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+13:43:17.153 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 5
+
+13:43:18.162 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 7
+
+13:43:32.883 [Thread-3] INFO  userLogger - Elevator 3 : On the way from level 1
+
+13:43:32.884 [Thread-3] INFO  userLogger - Elevator 3 : Picking user at level 1
+
+13:43:33.884 [Thread-4] INFO  userLogger - Elevator 4 : On the way from level 1
+
+13:43:34.388 [Thread-4] INFO  userLogger - Elevator 4 : Picking user at level 2
+
+13:43:34.888 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 4
+
+13:43:34.897 [Thread-3] INFO  userLogger - Elevator 3 : Dropping off user at level 5
+
+13:43:35.390 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 5
+
+13:43:35.395 [Thread-4] INFO  userLogger - Elevator 4 : Dropping off user at level 4
+
+13:43:36.398 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 7
+
+13:44:12.219 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:44:12.222 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:44:12.223 [main] INFO  userLogger - (Input q to quit)
+> 
+13:44:15.997 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+13:44:16.503 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 2
+
+13:44:17.513 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 4
+
+13:44:18.005 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+13:44:20.014 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 5
+
+13:44:21.021 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 7
+
+13:44:46.957 [Thread-3] INFO  userLogger - Elevator 3 : On the way from level 1
+
+13:44:47.462 [Thread-3] INFO  userLogger - Elevator 3 : Picking user at level 2
+
+13:44:48.472 [Thread-3] INFO  userLogger - Elevator 3 : Dropping off user at level 4
+
+13:44:48.963 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 4
+
+13:44:49.464 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 5
+
+13:44:50.472 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 7
+
+13:44:59.355 [Thread-4] INFO  userLogger - Elevator 4 : On the way from level 1
+
+13:44:59.355 [Thread-4] INFO  userLogger - Elevator 4 : Picking user at level 1
+
+13:45:01.371 [Thread-4] INFO  userLogger - Elevator 4 : Dropping off user at level 5
+
+13:45:42.910 [main] INFO  userLogger - Welcome to our Elevator App!
+
+13:45:42.913 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+13:45:42.913 [main] INFO  userLogger - (Input q to quit)
+> 
+13:45:45.526 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+13:45:45.527 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+13:45:46.531 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+13:45:47.033 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+13:45:47.534 [Thread-3] INFO  userLogger - Elevator 3 : On the way from level 1
+
+13:45:47.544 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 5
+
+13:45:48.039 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 4
+
+13:45:48.540 [Thread-3] INFO  userLogger - Elevator 3 : Picking user at level 3
+
+13:45:50.559 [Thread-3] INFO  userLogger - Elevator 3 : Dropping off user at level 7
+
+13:46:03.482 [Thread-4] INFO  userLogger - Elevator 4 : On the way from level 1
+
+13:46:03.482 [Thread-4] INFO  userLogger - Elevator 4 : Picking user at level 1
+
+13:46:08.007 [Thread-4] INFO  userLogger - Elevator 4 : Dropping off user at level 10
+
+13:46:22.738 [Thread-5] INFO  userLogger - Elevator 5 : On the way from level 1
+
+13:46:22.738 [Thread-5] INFO  userLogger - Elevator 5 : Picking user at level 1
+
+13:46:23.740 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 5
+
+13:46:23.741 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 5
+
+13:46:24.749 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 7
+
+13:46:24.752 [Thread-5] INFO  userLogger - Elevator 5 : Dropping off user at level 5
+
+14:39:56.527 [main] INFO  userLogger - Welcome to our Elevator App!
+
+14:39:56.529 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+14:39:56.530 [main] INFO  userLogger - (Input q to quit)
+> 
+14:48:35.448 [main] INFO  userLogger - Welcome to our Elevator App!
+
+14:48:35.452 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+14:48:35.452 [main] INFO  userLogger - (Input q to quit)
+> 
+14:48:45.782 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+14:48:45.783 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+14:48:47.795 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 5
+
+14:49:09.407 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+14:49:09.913 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+14:49:10.411 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 5
+
+14:49:11.415 [Thread-3] INFO  userLogger - Elevator 3 : On the way from level 1
+
+14:49:11.423 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 5
+
+14:49:12.427 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 9
+
+14:49:13.938 [Thread-3] INFO  userLogger - Elevator 3 : Picking user at level 6
+
+14:49:15.453 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 3
+
+14:49:15.957 [Thread-3] INFO  userLogger - Elevator 3 : Dropping off user at level 10
+
+14:49:42.397 [main] INFO  userLogger - Welcome to our Elevator App!
+
+14:49:42.401 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+14:49:42.402 [main] INFO  userLogger - (Input q to quit)
+> 
+14:49:50.922 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+14:49:50.922 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+14:49:52.432 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 7
+
+14:50:18.593 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 7
+
+14:50:19.099 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 9
+
+14:50:20.613 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 3
+
+14:50:20.613 [Thread-1] INFO  userLogger - Elevator 1 : Please take the stairs to level 4
+
+14:50:49.378 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 3
+
+14:50:49.883 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+14:50:50.381 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+14:50:50.886 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+14:50:50.889 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 5
+
+14:50:50.889 [Thread-1] INFO  userLogger - Elevator 1 : Please take the stairs to level 6
+
+14:50:51.386 [Thread-4] INFO  userLogger - Elevator 4 : On the way from level 1
+
+14:50:51.896 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 6
+
+14:50:53.910 [Thread-4] INFO  userLogger - Elevator 4 : Picking user at level 10
+
+14:50:56.430 [Thread-4] INFO  userLogger - Elevator 4 : Dropping off user at level 1
+
+14:51:58.036 [main] INFO  userLogger - Thank you for using the elevator app. See you again!
+
+14:52:07.255 [main] INFO  userLogger - Welcome to our Elevator App!
+
+14:52:07.259 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+14:52:07.260 [main] INFO  userLogger - (Input q to quit)
+> 
+14:52:14.463 [main] ERROR userLogger - Input is out of range
+
+14:52:20.084 [main] ERROR userLogger - Input is out of range
+
+14:52:25.621 [main] ERROR userLogger - Input should be positive integer
+
+14:52:31.920 [main] ERROR userLogger - Input should be in format src:dest
+
+14:52:33.381 [main] ERROR userLogger - Input should be in format src:dest
+
+14:52:36.060 [main] INFO  userLogger - Thank you for using the elevator app. See you again!
+
+15:02:04.279 [main] INFO  userLogger - Welcome to our Elevator App!
+
+15:02:04.283 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+15:02:04.283 [main] INFO  userLogger - (Input q to quit)
+> 
+15:02:13.238 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+15:02:13.742 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 2
+
+17:58:33.706 [main] INFO  userLogger - Welcome to our Elevator App!
+
+17:58:33.710 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+17:58:33.710 [main] INFO  userLogger - (Input q to quit)
+> 
+17:59:51.206 [main] INFO  userLogger - Welcome to our Elevator App!
+
+17:59:51.209 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+17:59:51.209 [main] INFO  userLogger - (Input q to quit)
+> 
+17:59:59.271 [main] ERROR userLogger - Input should be in format src:dest
+
+17:59:59.272 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+17:59:59.272 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+18:00:01.287 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 5
+
+18:00:07.795 [main] ERROR userLogger - Input should be in format src:dest
+
+18:00:07.795 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+18:00:07.796 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 1
+
+18:00:09.807 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 5
+
+18:00:17.810 [Thread-3] INFO  userLogger - Elevator 3 : On the way from level 1
+
+18:00:17.811 [Thread-3] INFO  userLogger - Elevator 3 : Picking user at level 1
+
+18:00:18.814 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 5
+
+18:00:19.818 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 5
+
+18:00:19.819 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 3
+
+18:00:19.819 [Thread-3] INFO  userLogger - Elevator 3 : Dropping off user at level 5
+
+18:00:22.336 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 10
+
+18:00:22.336 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 8
+
+18:00:25.353 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 4
+
+18:01:02.650 [Thread-4] INFO  userLogger - Elevator 4 : On the way from level 1
+
+18:01:02.651 [Thread-4] INFO  userLogger - Elevator 4 : Picking user at level 1
+
+18:01:03.653 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 4
+
+18:01:04.154 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 3
+
+18:01:04.654 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 8
+
+18:01:04.659 [Thread-4] INFO  userLogger - Elevator 4 : Dropping off user at level 5
+
+18:01:05.657 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 10
+
+18:01:06.666 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 8
+
+18:01:08.678 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 4
+
+18:02:40.954 [main] INFO  userLogger - Welcome to our Elevator App!
+
+18:02:40.957 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+18:02:40.957 [main] INFO  userLogger - (Input q to quit)
+> 
+18:02:56.305 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+18:02:57.310 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 3
+
+18:02:58.309 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+18:02:59.313 [Thread-3] INFO  userLogger - Elevator 3 : On the way from level 1
+
+18:02:59.818 [Thread-3] INFO  userLogger - Elevator 3 : Picking user at level 2
+
+18:02:59.829 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 8
+
+18:03:00.315 [Thread-4] INFO  userLogger - Elevator 4 : On the way from level 1
+
+18:03:00.822 [Thread-3] INFO  userLogger - Elevator 3 : Dropping off user at level 4
+
+18:03:01.320 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 8
+
+18:03:02.825 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 5
+
+18:03:02.835 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 10
+
+18:03:03.330 [Thread-4] INFO  userLogger - Elevator 4 : Picking user at level 7
+
+18:03:04.340 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 2
+
+18:03:05.857 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 4
+
+18:03:06.353 [Thread-4] INFO  userLogger - Elevator 4 : Dropping off user at level 1
+
+19:34:25.546 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+19:34:25.548 [main] INFO  userLogger - (Input q to quit)
+> 
+19:34:32.491 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+19:34:32.492 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+19:34:37.027 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 10
+
+19:34:44.663 [Thread-2] INFO  userLogger - Elevator 2 : On the way from level 1
+
+19:34:44.664 [Thread-2] INFO  userLogger - Elevator 2 : Picking user at level 1
+
+19:34:45.668 [Thread-3] INFO  userLogger - Elevator 3 : On the way from level 1
+
+19:34:46.672 [Thread-4] INFO  userLogger - Elevator 4 : On the way from level 1
+
+19:34:46.675 [Thread-3] INFO  userLogger - Elevator 3 : Picking user at level 3
+
+19:34:47.180 [Thread-3] INFO  userLogger - Elevator 3 : Dropping off user at level 2
+
+19:34:48.689 [Thread-4] INFO  userLogger - Elevator 4 : Picking user at level 5
+
+19:34:49.192 [Thread-2] INFO  userLogger - Elevator 2 : Dropping off user at level 10
+
+19:34:50.200 [Thread-4] INFO  userLogger - Elevator 4 : Dropping off user at level 8
+
+19:34:56.463 [main] INFO  userLogger - Exiting program.
+
+20:13:33.698 [main] INFO  userLogger - Please enter elevator request in the following format - srd:dest
+
+20:13:33.701 [main] INFO  userLogger - (Input q to quit)
+> 
+20:13:42.021 [Thread-1] INFO  userLogger - Elevator 1 : On the way from level 1
+
+20:13:42.021 [Thread-1] INFO  userLogger - Elevator 1 : Picking user at level 1
+
+20:13:44.435 [main] ERROR userLogger - Input should be in format src:dest
+
+20:13:46.548 [Thread-1] INFO  userLogger - Elevator 1 : Dropping off user at level 10
+
+20:13:46.844 [main] ERROR userLogger - Input should be in format src:dest
+
+20:13:48.418 [main] INFO  userLogger - Exiting program
+

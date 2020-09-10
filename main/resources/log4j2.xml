@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Configuration is the root element for xml configuration. Appender and 
+	Logger definitions go here. -->
+<!-- The root element also includes optional attributes. -->
+<!-- monitorInterval - reloads configuration every X seconds. -->
+<!-- status - sets the statusLogger level to a certain value: set it to trace 
+	to see the status of the log4j2 system logged. -->
+<Configuration status="warn" monitorInterval="30">
+
+	<!-- The most commonly used appender is RollingFileAppender, but we will 
+		use Console and File for simplicity. There are many options in logging: Console, 
+		Files, Databases, HTTP, Sockets, etc. For more information about appenders, 
+		see the link here: https://logging.apache.org/log4j/2.x/manual/appenders.html -->
+	<Appenders>
+
+		<Console name="StdOut" target="SYSTEM_OUT">
+			<!-- Each appender should have a layout associated with it. This determines 
+				the output pattern of the messages. -->
+			<PatternLayout pattern="%msg" />
+		</Console>
+
+		<File name="FileAppender" filename="src/main/output/output.log">
+			<!-- This pattern is the same pattern as the default logger. For more 
+				information on layouts and patterns, see the link here https://logging.apache.org/log4j/2.x/manual/layouts.html -->
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</File>
+	</Appenders>
+
+
+	<Loggers>
+		<!-- Since the root logger is appending to the console, all other loggers 
+			will inherit this appender. Thus, all loggers will append to the console. -->
+
+		<Root level="error">
+			<AppenderRef ref="FileAppender" />
+		</Root>
+
+
+
+		<Logger name="viewLogger" level="trace" additivity="false">
+			<AppenderRef ref="StdOut" />
+		</Logger>
+
+		<Logger name="userLogger" level="info" additivity="true">
+			<AppenderRef ref="StdOut" />
+		</Logger>
+
+
+	</Loggers>
+</Configuration>

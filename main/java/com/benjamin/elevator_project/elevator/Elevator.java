@@ -64,7 +64,7 @@ public class Elevator implements IElevator, Runnable {
 				else
 					currentFloor -= 2;
 
-				// go down
+			// go down
 			} else {
 				if ((((Elevator) elevator).getType() == null) || (((Elevator) elevator).getType().equals("even")
 						&& ((Elevator) elevator).getCurrentFloor() == 1))
